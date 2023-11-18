@@ -1,10 +1,21 @@
-- Hi, I’m Max Sutton
-- I am a Senior at the University of Arkansas persuing a Bachelor's in Information Systems and Finance.
-- I am looking for a job in Technology Consulting, Data Analytics, or Software Development.
-- I have experience with analytics software, and have learned to code in several programming languages.
-- I want to grow my skills in Analytics Software and in Software Development.
-- I am interested in open source software, my repository has one project that displays my experience with web scraping, data cleaning, and data visualization all in Python.
-<!---
-maxsttn1/maxsttn1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello! I'm Max, a passionate Software Engineer specializing in .NET development, currently contributing my skills at NTT Data. My passion lies in crafting effective and efficient applications that resonate with our customers, and solve practical business problems.
+
+🖥️ 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
+
+● Actively involved in web app development using .NET Framework.
+● Collaborating within cross-functional teams to deliver high-quality software solutions that meet client requirements.
+● Continuously learning and applying best practices in coding, testing, and debugging to ensure quality project delivery.
+
+🛠️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬:
+
+● Proficient in .NET framework and C# programming language.
+● Expertise in web app development using .NET Framework (Blazor Framework, MVC)
+● Experience with Microsoft Azure implementation with web application development.
+● Proficiency in HTML, CSS, and TypeScript development using Angular framework
+● Active practitioner of Scrum methodology
+
+🏭𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞:
+
+● Healthcare
+● Banking
+● Industrial Manufacturing
